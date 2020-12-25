@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\ACTest1\bin\Debug\ACTest1.exe.config
+C:\Users\admin\Desktop\ACTest1\bin\Debug\ACTest1.exe
+C:\Users\admin\Desktop\ACTest1\bin\Debug\ACTest1.pdb
+C:\Users\admin\Desktop\ACTest1\obj\Debug\ACTest1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ACTest1\obj\Debug\ACTest1.work.AC_Open.resources
+C:\Users\admin\Desktop\ACTest1\obj\Debug\ACTest1.Form1.resources
+C:\Users\admin\Desktop\ACTest1\obj\Debug\ACTest1.Properties.Resources.resources
+C:\Users\admin\Desktop\ACTest1\obj\Debug\ACTest1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ACTest1\obj\Debug\ACTest1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ACTest1\obj\Debug\ACTest1.exe
+C:\Users\admin\Desktop\ACTest1\obj\Debug\ACTest1.pdb
